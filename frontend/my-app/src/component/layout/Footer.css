@@ -1,0 +1,19 @@
+.footerF{
+    background-color: rgb(176, 206, 196);
+    
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(113, 109, 109);
+    
+}
+
+li{
+    list-style: none; 
+}
+
+li.active a {
+    text-decoration: underline;
+    color: black;
+  }

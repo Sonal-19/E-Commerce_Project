@@ -1,0 +1,24 @@
+.BeerListItem-imgB {
+    height: auto;
+    max-height: 390px !important;
+    width: 390px !important;
+    max-width: 390px !important;
+}
+.BeerListItem-imgU {
+    height: auto;
+    max-height: 420px !important;
+    width: 420px !important;
+    max-width: 420px !important;
+}
+
+.BeerListItem-imgU {
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .BeerListItem-imgU.fade-in {
+    opacity: 1;
+  }
+
+.cardU{
+    width:420px !important;
+}

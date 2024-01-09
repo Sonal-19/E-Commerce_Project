@@ -1,0 +1,29 @@
+.cardPD{
+    width:820px;
+}
+
+/* .DBeerListItem-img {
+    height: auto;
+    max-height: 549px;
+    width: auto;
+    max-width: 549px;
+  } */
+
+  .DBeerListItem-img {
+    height: auto;
+    max-height: 290px !important;
+    width: auto;
+    max-width: 249px !important;
+  }
+
+  .btnR{
+    background-color: rgb(240, 33, 68) !important;
+    color: white !important;
+  }
+
+  .btnA{
+    background-color: rgb(102, 162, 205) !important;
+    color: white !important;
+  }
+
+  /* rgb(136, 174, 202) */

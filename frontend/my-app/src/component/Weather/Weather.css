@@ -1,0 +1,106 @@
+.title {
+  float: right;
+  font-family: "Oxygen", sans-serif;
+  padding: 30px 30px 0 0;
+}
+
+.title h2 {
+  color: #000000;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.date-time {
+  position: absolute;
+  font-weight: bold;
+  font-size: 19px;
+  bottom: 0;
+  color: #f7f3f3;
+  width: 90%;
+  padding: 0 30px 10px 30px;
+  font-family: "Oxygen", sans-serif;
+}
+
+
+.temperature {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 44px;
+  font-weight: bold;
+  position: relative;
+  padding-left: 160px;
+}
+
+/* .card {
+    animation: gradientAnimation 5s infinite alternate;
+  }
+  
+  @keyframes gradientAnimation {
+    0% {
+      background: linear-gradient(to bottom, #87CEEB, #00BFFF);
+    }
+    25% {
+      background: linear-gradient(to bottom, #00BFFF, #87CEEB);
+    }
+    50% {
+      background: linear-gradient(to bottom, #7FFFD4, #00FA9A);
+    }
+    75% {
+      background: linear-gradient(to bottom, #00FA9A, #32CD32);
+    }
+    100% {
+      background: linear-gradient(to bottom, #FFD700, #FFA500);
+    }
+  } */
+
+
+  @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:200');
+
+.cardW  {
+    background-image: url('https://static.pexels.com/photos/414171/pexels-photo-414171.jpeg');
+  background-size:cover;
+        -webkit-animation: slidein 20s;
+        animation: slidein 10s;
+
+        -webkit-animation-fill-mode: forwards;
+        animation-fill-mode: forwards;
+
+        -webkit-animation-iteration-count: infinite;
+        animation-iteration-count: infinite;
+
+        -webkit-animation-direction: alternate;
+        animation-direction: alternate;              
+}
+
+/* @-webkit-keyframes slidein {
+from {background-position: top; background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+}
+
+@keyframes slidein {
+from {background-position: top;background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+} */
+
+@-webkit-keyframes slidein {
+from {background-position: top; background-size:900px; }
+to {background-position: -100px 0px;background-size:800px;}
+}
+
+@keyframes slidein {
+from {background-position: top; background-size:900px; }
+to {background-position: -100px 0px;background-size:800px;}
+
+}
+
+.cardW{
+  width: 500px;
+  height: 40vh !important;
+}
+
+.color{
+  background-color: rgb(255, 121, 3);
+  background-color: rgb(226, 7, 7);
+  background-color: rgba(255, 4, 88, 0.895);
+  background-color: FFFFFA;
+}

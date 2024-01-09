@@ -1,0 +1,10 @@
+.container-sm {
+    width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .container-sm {
+      background-size: contain;
+    }
+  }
+  

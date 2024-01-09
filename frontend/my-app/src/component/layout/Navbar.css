@@ -1,0 +1,46 @@
+nav{
+    position: fixed;
+}
+
+nav a{
+    text-decoration: none;
+    padding-left: 5px;
+    font-weight: bold;
+    font-weight: 700;
+    color: black;
+}
+
+nav a:hover{
+    color: red;
+}
+
+.icon-text {
+    text-align: center;
+    font-size: 12px;
+    color: black;
+  }
+
+.right{
+    position: absolute;
+    right: 0px;
+}
+
+.dropNav{
+    margin-right: 10px !important;
+    padding-right: 10px !important;
+}
+
+.logo{
+    width: 169px;
+}
+
+.dropdown-toggle::after {
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: none !important;
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+}

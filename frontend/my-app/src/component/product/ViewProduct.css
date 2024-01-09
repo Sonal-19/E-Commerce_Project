@@ -1,0 +1,123 @@
+.cardP{
+    width:220px !important;
+}
+
+.cardV{
+    width:220px;
+}
+
+.cardL{
+  width: 500px;
+  height: 40vh !important;
+
+}
+
+/* .slick-dots{
+  bottom: 20px !important;
+}
+
+.slick-next{
+  right: 10px !important;
+}
+
+.slick-prev{
+  left: 10px !important;
+  z-index: 100 !important;
+}
+
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before
+{
+    opacity: .8 !important;
+} */
+
+.BeerListItem-imgL {
+  height: auto;
+  max-height: 235px;
+  width: auto;
+  max-width: 260px;
+  }
+
+  .DBeerListItem-img {
+    height: auto;
+    max-height: 290px !important;
+    width: auto;
+    max-width: 249px !important;
+  }
+
+/* .VBeerListItem-img {
+    height: auto;
+    max-height: 290px !important;
+    width: auto;
+    max-width: 240px !important;
+  } */
+
+.BeerListItem-img {
+    height: auto;
+    max-height: 220px !important;
+    width:220px !important;
+    max-width: 220px !important;
+  }
+
+ .btnW{
+  border-radius: 50% !important;
+ }
+
+  .modal{
+    padding-top: 100px;
+  }
+
+  .cardAP{
+    width:890px;
+  }
+
+  /* .slider {
+    width: 100% !important;
+    height: 350px;
+    position: relative;
+    overflow: hidden; 
+    border-radius: 15px;
+  } */
+  
+  /* .slide {
+    width: 100% !important;
+    height: 350px;
+    position: absolute;
+    transition: all 0.5s;
+  } */
+  .slider {
+    width: 100% !important;
+    height: 340px;
+    position: relative;
+    overflow: hidden; 
+  }
+  
+  .slide {
+    width: 100% !important;
+    height: 340px;
+    position: absolute;
+    transition: all 0.5s;
+  }
+
+  .imgS {
+    width: 100%;
+    height: 100%;
+    background-size:auto;
+  }
+
+
+  .heart-pink {
+    color: rgb(255, 1, 44) !important; 
+    font-size: 25px !important;
+  }
+  
+  .heart-white {
+    color: rgb(222, 208, 208) !important; 
+    font-size: 25px !important;
+  }
+
+  .selected-size {
+    background-color:gray;
+    color: rgb(255, 102, 102);
+    
+  }

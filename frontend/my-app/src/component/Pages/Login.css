@@ -1,0 +1,31 @@
+label{
+    font-weight: 500;
+   }
+   
+   .btnL{
+       padding: 5px 7px;
+       /* font-size: 15px; */
+       font-weight: bold;
+       font-weight: 700;
+       cursor: pointer;
+       outline: none;
+       color:white;
+   }
+   
+   button:hover {
+       color: red;
+   }
+   
+   form a{
+       text-decoration: none;
+   }
+   
+   .cardA{
+       width:500px;
+   }
+
+   .ball {
+    position: absolute;
+    border-radius: 100%;
+    opacity: 0.7;
+  }
